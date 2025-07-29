@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Maclean family cookbook!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Lorerm ipsum
