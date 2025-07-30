@@ -32,7 +32,7 @@ npx quartz create
 npx quartz build --serve
 ```
 
-### Publish website (THIS DOES NOT WORK YET)
+### Publish website
 
 In bash
 ```
