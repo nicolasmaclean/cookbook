@@ -1,18 +1,39 @@
-# Quartz v4
+# Maclean Cookbook
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+### Get the repo
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+```
+git clone https://github.com/nicolasmaclean/cookbook.git
+cd cookbook
+```
+
+### Initialize repo
+
+```
+npm i
+npx quartz create 
+```
+- if this doesn't work because content/index.md is missing, manually created an empty text file here and rerun
+- treat links as shortest path
+
+### Get content from obsidian sync
+1. open obsidian 
+2. setup 'Cookbook' vault from obsidian sync
+3. close obsidian
+4. move the everything from inside this to cookbook/content (overwrite existing files)
+(next time you open obsidian, open from cookbook/content)
+
+### Preview website
+```
+npx quartz build --serve
+```
+
+### Publish website
+```
+npx quartz sync
+```
+- if you see unable to access 'github.com/nicolasmaclean.git' when trying to push changes, just manually run git push or use some kind of git gui
+
+---
 
 🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
