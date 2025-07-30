@@ -29,7 +29,7 @@ npx quartz create
 ### Preview website
 
 ```
-npx quartz build --serve
+npm run preview
 ```
 
 ### Publish website
