@@ -13,26 +13,43 @@ cd cookbook
 npm i
 npx quartz create 
 ```
+
 - if this doesn't work because content/index.md is missing, manually created an empty text file here and rerun
-- treat links as shortest path
+- select "treat links as shortest path"
 
 ### Get content from obsidian sync
-1. open obsidian 
-2. setup 'Cookbook' vault from obsidian sync
-3. close obsidian
-4. move the everything from inside this to cookbook/content (overwrite existing files)
-(next time you open obsidian, open from cookbook/content)
+
+1. open Obsidian 
+2. "Open vault from Obsidian Sync"
+3. Connect "Cookbook"
+5. Set location to the root of the repo
+6. Create!
+7. Give Obsidian a minute to download all the files
 
 ### Preview website
+
 ```
-npx quartz build --serve
+npx quartz build --serve -d Cookbook
 ```
 
 ### Publish website (THIS DOES NOT WORK YET)
+
+In bash
 ```
-npx quartz sync
+npm run sync
 ```
-- if you see unable to access 'github.com/nicolasmaclean.git' when trying to push changes, just manually run git push or use some kind of git gui
+
+For windows
+```
+cp -r Cookbook/* content; npx quartz sync
+```
+
+For unix (?)
+```
+cp -r Cookbook/* content && npx quartz sync
+```
+
+- if you see unable to access 'github.com/nicolasmaclean.git', it probably indicates you lack access to the repo from where you are running this command. You can manually git push from a different terminal or gui.
 
 ---
 
