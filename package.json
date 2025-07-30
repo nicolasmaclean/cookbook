@@ -18,7 +18,9 @@
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "sync": "cp -r Cookbook/* content && npx quartz sync"
+
+    "sync": "cp -r Cookbook/* content && npx quartz sync",
+    "preview": "npx quartz build --serve"
   },
   "engines": {
     "npm": ">=10.9.2",
