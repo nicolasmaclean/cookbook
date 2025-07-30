@@ -29,7 +29,7 @@ npx quartz create
 ### Preview website
 
 ```
-npx quartz build --serve -d Cookbook
+npx quartz build --serve
 ```
 
 ### Publish website (THIS DOES NOT WORK YET)

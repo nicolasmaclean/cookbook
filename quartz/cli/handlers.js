@@ -235,6 +235,8 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 export async function handleBuild(argv) {
   if (argv.serve) {
     argv.watch = true
+    argv.d = 'Cookbook'
+    argv.directory = 'Cookbook'
   }
 
   console.log(`\n${styleText(["bgGreen", "black"], ` Quartz v${version} `)} \n`)

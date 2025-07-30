@@ -21,7 +21,7 @@ export default ((opts?: Options) => {
           ))}
           <li style='margin-left: auto;'>
             {i18n(cfg.locale).components.footer.createdWith}{" "}
-            <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+            <a href="https://quartz.jzhao.xyz/">Quartz</a> © {year}
           </li>
         </ul>
       </footer>
