@@ -2,4 +2,4 @@
 title: Welcome to the Maclean family cookbook!
 ---
 
-Lorerm ipsum
+Home page is a work in progress :)
