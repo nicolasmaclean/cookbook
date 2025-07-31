@@ -1,8 +1,8 @@
 ---
 tags: 
-  - Savory
-  - Sandwich
-  - Tea
+  - savory
+  - sandwich
+  - tea
 ---
 
 From the [internet](https://www.simplyrecipes.com/recipes/cucumber_sandwiches/)

@@ -1,6 +1,6 @@
 ---
 tags: 
-  - Savory
+  - savory
 ---
 
 From the [internet](https://www.thekitchn.com/one-pot-mediterranean-shrimp-rice-23031699)

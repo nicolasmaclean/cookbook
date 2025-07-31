@@ -1,9 +1,9 @@
 ---
 tags: 
-  - Savory
-  - Chicken
+  - savory
+  - chicken
   - Chinese
-  - Protein
+  - protein
 ---
 
 ## Ingredients

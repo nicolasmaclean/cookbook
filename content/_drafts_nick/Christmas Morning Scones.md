@@ -1,7 +1,7 @@
 ---
 tags: 
-  - Sweet 
-  - Scone
+  - sweet 
+  - scone
 draft: true
 ---
 

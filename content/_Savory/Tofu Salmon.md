@@ -1,8 +1,8 @@
 ---
 tags: 
-  - Savory
-  - Tofu
-  - Protein
+  - savory
+  - tofu
+  - protein
 ---
 
 From the [internet](https://sweetsimplevegan.com/vegan-salmon-made-from-tofu/)

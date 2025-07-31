@@ -1,7 +1,7 @@
 ---
 tags: 
-  - Sweet
-  - Breakfast
+  - sweet
+  - breakfast
 draft: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 tags: 
-  - Savory 
-  - Soup
+  - savory 
+  - soup
 draft: true
 ---
 

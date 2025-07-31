@@ -1,9 +1,9 @@
 ---
 tags:
-  - Sweet
-  - Cake
-  - Banana
-  - Coconut
+  - sweet
+  - cake
+  - banana
+  - coconut
 ---
 
 From the [internet](https://www.thedailymeal.com/recipes/butterscotch-banana-coconut-cake-recipe)

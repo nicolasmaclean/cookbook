@@ -1,8 +1,8 @@
 ---
 tags: 
-  - Savory
-  - Chicken
-  - Pie
+  - savory
+  - chicken
+  - pie
 ---
 
 From Elisa Maclean

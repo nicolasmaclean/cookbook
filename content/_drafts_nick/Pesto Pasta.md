@@ -1,7 +1,7 @@
 ---
 tags: 
-  - Savory
-  - Pasta
+  - savory
+  - pasta
 draft: true
 ---
 

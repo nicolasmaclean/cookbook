@@ -1,8 +1,8 @@
 ---
 tags: 
-  - Savory
+  - savory
   - Japanese
-  - Noodles
+  - noodles
 ---
 
 For 1 serving

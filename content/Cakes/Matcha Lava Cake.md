@@ -1,8 +1,8 @@
 ---
 tags: 
-  - Sweet
-  - Cake
-  - Matcha
+  - sweet
+  - cake
+  - matcha
 ---
 
 From the [internet](https://kirbiecravings.com/matcha-green-tea-molten-lava-cakes/)

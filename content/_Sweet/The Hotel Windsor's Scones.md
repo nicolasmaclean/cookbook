@@ -1,7 +1,7 @@
 ---
 tags: 
-  - Sweet
-  - Scone
+  - sweet
+  - scone
 ---
 
 From the [internet](https://highteasociety.com/recipe/the-hotel-windsors-scone-recipe/)

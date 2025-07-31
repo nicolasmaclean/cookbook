@@ -1,8 +1,8 @@
 ---
 tags: 
-  - Sweet
-  - Cake
-  - Alcohol
+  - sweet
+  - cake
+  - alcohol
 ---
 
 From somewhere in Jamaica

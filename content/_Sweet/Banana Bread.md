@@ -1,8 +1,8 @@
 ---
 tags: 
-  - Sweet
-  - Bread
-  - Banana
+  - sweet
+  - bread
+  - banana
 ---
 
 ## Ingredients

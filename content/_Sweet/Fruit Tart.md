@@ -1,7 +1,7 @@
 ---
 tags: 
-  - Sweet
-  - Tart
+  - sweet
+  - tart
   - French
 ---
 

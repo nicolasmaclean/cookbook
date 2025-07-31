@@ -1,8 +1,8 @@
 ---
 tags: 
-  - Sweet
-  - Cookie
-  - Coconut
+  - sweet
+  - cookie
+  - coconut
 draft: true
 ---
 

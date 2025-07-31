@@ -1,8 +1,8 @@
 ---
 tags: 
-  - Sweet
+  - sweet
   - Basic
-  - Sauce
+  - sauce
 draft: true
 ---
 

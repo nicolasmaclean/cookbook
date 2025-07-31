@@ -1,8 +1,8 @@
 ---
 tags: 
-  - Savory
-  - Soup
-  - Protein
+  - savory
+  - soup
+  - protein
 ---
 
 From Elisa Maclean

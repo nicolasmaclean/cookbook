@@ -1,7 +1,7 @@
 ---
 tags: 
-  - Savory
-  - Pie
+  - savory
+  - pie
 draft: true
 ---
 

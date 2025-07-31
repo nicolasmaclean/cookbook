@@ -1,7 +1,7 @@
 ---
 tags: 
-  - Savory
-  - Scone
+  - savory
+  - scone
 ---
 
 From Elisa Maclean

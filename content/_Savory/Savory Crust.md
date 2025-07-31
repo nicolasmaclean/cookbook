@@ -1,8 +1,8 @@
 ---
 tags: 
-  - Savory
+  - savory
   - Basic
-  - Pie
+  - pie
 ---
 
 Makes 2 pie crusts.

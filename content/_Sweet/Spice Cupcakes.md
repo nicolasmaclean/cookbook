@@ -1,7 +1,7 @@
 ---
 tags: 
-  - Sweet
-  - Cupcake
+  - sweet
+  - cupcake
 ---
 
 From Guthern Maclean

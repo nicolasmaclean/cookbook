@@ -1,8 +1,8 @@
 ---
 tags: 
-  - Sweet
-  - Cake
-  - Coconut
+  - sweet
+  - cake
+  - coconut
   - Guthern
 ---
 

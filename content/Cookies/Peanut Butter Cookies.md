@@ -1,8 +1,8 @@
 ---
 tags: 
-  - Sweet
-  - Cookie
-  - Peanut Butter
+  - sweet
+  - cookie
+  - peanut butter
 ---
 
 From *The Perfect Cookie* by America's Test Kitchen

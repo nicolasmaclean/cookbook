@@ -1,9 +1,9 @@
 ---
 tags: 
-  - Sweet
-  - Cake
-  - Matcha
-  - Chocolate
+  - sweet
+  - cake
+  - matcha
+  - chocolate
 ---
 
 From the [internet](https://sweetmouthjoy.com/easy-matcha-white-chocolate-cake/)

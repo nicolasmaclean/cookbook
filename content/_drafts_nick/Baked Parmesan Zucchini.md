@@ -1,7 +1,7 @@
 ---
 tags: 
-  - Savory
-  - Appetizer
+  - savory
+  - appetizer
 draft: true
 ---
 

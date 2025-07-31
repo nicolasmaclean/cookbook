@@ -1,7 +1,7 @@
 ---
 tags:
-  - Sweet
-  - Cookie
+  - sweet
+  - cookie
 ---
 
 From America's Test Kitchen?
