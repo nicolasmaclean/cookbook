@@ -6,7 +6,7 @@ tags:
   - mochi
 ---
 
-![[Pasted image 20250829144508.png]]
+![[banana-bread-mochi.jpg]]
 
 From @hungrygeisha on Instagram.
 
