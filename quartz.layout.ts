@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Source Code": "https://github.com/nicolasmaclean/cookbook",
+      "Website Code": "https://github.com/nicolasmaclean/cookbook",
     },
   }),
 }
@@ -20,9 +20,18 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    Component.ConditionalRender({
+      component: Component.ArticleTitle(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.ContentMeta(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.TagList(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
   left: [
     Component.PageTitle(),
@@ -36,11 +45,38 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      folderClickBehavior: "collapse",
+      mapFn: (node) => {
+        node.displayName = node.displayName.replace('_', ' ');
+        return node;
+      },
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["_drafts_nick"])
+     
+        // can also use node.slug or by anything on node.data
+        // note that node.data is only present for files that exist on disk
+        // (e.g. implicit folder nodes that have no associated index.md)
+        return !omit.has(node.displayName.toLowerCase())
+      },
+      order: ["filter", "sort", "map"]
+    }),
   ],
   right: [
     Component.TableOfContents(),
     Component.Backlinks(),
+  ],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "Recent Recipes 😋", 
+        filter: (f) => f.filePath !== "Cookbook/index.md", 
+        showTags: false,
+        limit: 5,
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
   ],
 }
 
