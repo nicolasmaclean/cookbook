@@ -71,7 +71,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.RecentNotes({
         title: "Recent Recipes 😋", 
-        filter: (f) => f.filePath !== "Cookbook/index.md", 
+        filter: (f) => f.filePath !== "content/index.md", 
         showTags: false,
         limit: 5,
       }),
