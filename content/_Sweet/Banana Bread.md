@@ -5,6 +5,9 @@ tags:
   - banana
 ---
 
+![[banana-bread.jpg]]
+
+
 ## Ingredients
 
 - [ ] 2 to 3 ripe bananas (1.25-1.5 cups mashed)
