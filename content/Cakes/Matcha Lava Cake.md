@@ -5,6 +5,8 @@ tags:
   - matcha
 ---
 
+![[matcha-lava-cake.png]]
+
 From the [internet](https://kirbiecravings.com/matcha-green-tea-molten-lava-cakes/)
 
 ## Ingredients

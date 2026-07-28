@@ -10,8 +10,10 @@ tags:
 
 - [ ] Chicken thighs (Skinless and boneless preferably)
 - [ ] Chinese cooking wine
-- [ ] Soy Sauce
+- [ ] Soy sauce
+- [ ] Sesame oil
 - [ ] Msg
+- [ ] Crushed chili flakes
 
 Optional
 - [ ] Chinese sausage

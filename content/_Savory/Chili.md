@@ -5,6 +5,8 @@ tags:
   - protein
 ---
 
+![[chili.png]]
+
 From Elisa Maclean
 
 ## Ingredients

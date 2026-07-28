@@ -5,6 +5,8 @@ tags:
   - peanut butter
 ---
 
+![[peanut-butter-cookie.png]]
+
 From *The Perfect Cookie* by America's Test Kitchen
 
 ## Ingredients

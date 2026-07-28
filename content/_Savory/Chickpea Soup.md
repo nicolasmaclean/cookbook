@@ -6,7 +6,7 @@ tags:
   - one-pot
 ---
 
-![[20250809_201305.jpg]]
+![[chickpea-soup.jpg]]
 
 From the [internet](https://plantyou.com/marry-me-chickpeas/)
 

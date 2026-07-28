@@ -5,6 +5,8 @@ tags:
   - French
 ---
 
+![[fruit-tart.png]]
+
 From Elisa Maclean. Originally from a cooking class while living in Paris, though, heavy modifications have been made since then.
 
 ## Pastry Cream Ingredients

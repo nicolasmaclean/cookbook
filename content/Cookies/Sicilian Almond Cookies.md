@@ -5,7 +5,7 @@ tags:
   - tea cookie
 ---
 
-![[Sicilian-Almond-Cookies-2.jpg]]
+![[sicilian-almond-cookies.jpg]]
 
 From the [internet](https://thisitaliankitchen.com/sicilian-almond-cookies/) and tested by Elisa Maclean
 
