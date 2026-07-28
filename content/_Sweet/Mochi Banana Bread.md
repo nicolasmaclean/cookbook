@@ -1,4 +1,5 @@
 ---
+date: 2025-08-29
 tags:
   - sweet
   - bread

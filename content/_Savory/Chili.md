@@ -1,4 +1,5 @@
 ---
+date: 2025-07-30
 tags: 
   - savory
   - soup

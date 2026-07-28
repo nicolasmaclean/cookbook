@@ -2,6 +2,7 @@
 tags:
   - noodles
   - spinach
+date: 2026-07-28
 ---
 
 ![[spinach-noodles.png]]
