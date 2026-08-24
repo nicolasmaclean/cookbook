@@ -263,6 +263,7 @@ export function renderPage(
             <Footer {...componentData} />
           </Body>
         </div>
+        <script async data-id="101510737" src="//static.getclicky.com/js"></script>
       </body>
       {pageResources.js
         .filter((resource) => resource.loadTime === "afterDOMReady")
