@@ -1,5 +1,10 @@
 # Maclean Cookbook
 
+<p align="center">
+  <img src="docs/images/maclean-cookbook.png" alt="Maclean Cookbook" width="49%" />
+  <img src="docs/images/mochi-banana-bread.png" alt="Mochi Banana Bread" width="49%" />
+</p>
+
 ### Get the repo
 
 ```
