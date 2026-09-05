@@ -7,6 +7,8 @@ tags:
   - sauce
 ---
 
+![[saucy-scored-chicken-breast.png]]
+
 Adapted from [The Perfect Technique For Sauce Lovers](https://www.youtube.com/shorts/iEMB_p7DEF0).
 
 ## Ingredients
