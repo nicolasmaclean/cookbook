@@ -9,6 +9,8 @@ tags:
 
 Adapted from [this Pinterest post](https://www.pinterest.com/pin/575264552424176290/).
 
+![[chili-chicken-street-corn-rice-bowl.png]]
+
 ## Ingredients
 
 ### Chili chicken
