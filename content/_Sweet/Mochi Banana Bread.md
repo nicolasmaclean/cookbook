@@ -13,10 +13,10 @@ From @hungrygeisha on Instagram.
 
 ## Ingredients
 
-- 1 cup pureed ripe banana
-- 1/4 cup sugar (or to taste)
-- 1/4 cup brown sugar
-- 1 1/2 sifted gluinous rice flour
+- 1 ripe banana (2 if you're crazy 🤪)
+- up to 45g (1/4 cup) sugar (I usually do none)
+- 45g (1/4 cup) brown sugar
+- 240g (1/2 cup) sifted glutinous rice flour
 - 2 eggs
 - 75g (1/3 cup) melted butter
 - 3/4 cup light canned coconut milk
@@ -36,4 +36,4 @@ From @hungrygeisha on Instagram.
 
 ## Notes
 
-- 1 cup of banana should be 1/2 or 3/4 of a banana, but there's no such thing as too much banana!
+- Tastes best the next day, after completely cooling it will have a proper mochi-like chew.
